@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4ac59e4-8a9f-461e-bb64-2f08919d4478" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>concat</find>
+      <find>com.connectis.programator.demo.zajecia_09_01.a_kolekcje.set.treeset.Person</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Person</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/e_initialization/C.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/e_initialization/A.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/e_initialization/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/Restaurant.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/McDonalds.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/Wendys.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/FoodTruck.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/BurgerProvider.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/Owca.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/iterable/Zwierze.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/iterable/Owca.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/f_interface/iterable/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/g_wielokaty/Kwadrat.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/g_wielokaty/Prostokat.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/g_wielokaty/Trojkat.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/g_wielokaty/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/g_wielokaty/Wielokat.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/h_enum/DaysOfWeek.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/h_enum/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/j_myqueue/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/j_myqueue/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_31_08/j_myqueue/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/j_myqueue/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/PersonComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/PersonMain.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/MainSetTypes.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/treeset/PersonComparatorByID.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/treeset/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/treeset/PersonMain.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/treeset/PersonComparatorUber.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/treeset/PersonMain2.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/MainSetMethods.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/PersonMain.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/list/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/map/User.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/map/NewAllegro.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/treeset/PersonMain.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/treeset/PersonMain2.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/map/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/map/MainMap.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/pantadeusz/WordCountComparator.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/pantadeusz/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Cat.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Cow.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Chihuahua.java" />
+        <option value="$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1721" />
+    <option name="y" value="-1440" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="programator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programator-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecia_09_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecia_09_01" type="462c0819:PsiDirectoryNode" />
+              <item name="a_kolekcje" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecia_09_01" type="462c0819:PsiDirectoryNode" />
+              <item name="a_kolekcje" type="462c0819:PsiDirectoryNode" />
+              <item name="pantadeusz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programator-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programator-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="zajecia_09_01" type="462c0819:PsiDirectoryNode" />
+              <item name="b_dziedziczenie" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.connectis.programator.demo.zajecia_09_01.a_kolekcje.treeset" />
+      <recent name="com.connectis.programator.demo.c_singleton" />
+      <recent name="com.connectis.programator.demo.b_pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.connectis.programator.demo.zajecia_09_01.a_kolekcje.list.Main" />
+      <module name="programator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.connectis.programator.demo.zajecia_09_01.a_kolekcje.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.connectis.programator.demo.zajecia_09_01.a_kolekcje.pantadeusz.Main" />
+      <module name="programator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.connectis.programator.demo.zajecia_09_01.a_kolekcje.pantadeusz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.connectis.programator.demo.zajecia_09_01.b_dziedziczenie.Main" />
+      <module name="programator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.connectis.programator.demo.zajecia_09_01.b_dziedziczenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.connectis.programator.demo.zajecia_09_01.a_kolekcje.map.Main" />
+      <module name="programator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.connectis.programator.demo.zajecia_09_01.a_kolekcje.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.connectis.programator.demo.zajecia_09_01.a_kolekcje.map.MainMap" />
+      <module name="programator-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.connectis.programator.demo.zajecia_09_01.a_kolekcje.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.MainMap" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4ac59e4-8a9f-461e-bb64-2f08919d4478" name="Default Changelist" comment="" />
+      <created>1566717423608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566717423608</updated>
+      <workItem from="1566717425613" duration="21655000" />
+      <workItem from="1567018792784" duration="5071000" />
+      <workItem from="1567197635621" duration="52282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79008000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1721" y="-1440" width="2560" height="1440" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19335938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Unicode Browser" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.81238097" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298611" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938712" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Gerrit" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3295238" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Code Outline" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32295483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Unicode Browser" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.81238097" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4755102" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938712" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Gerrit" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3299285" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Code Outline" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/e_initialization/UserId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/e_initialization/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/e_initialization/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/e_initialization/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/e_initialization/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/e_initialization/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/f_interface/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/f_interface/McDonalds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/f_interface/Wendys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/f_interface/FoodTruck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/f_interface/BurgerProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="59" column="6" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="6" />
+          <folding>
+            <element signature="e#2712#2713#0" expanded="true" />
+            <element signature="e#2785#2786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/f_interface/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/f_interface/iterable/Zwierze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/f_interface/iterable/Owca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/f_interface/iterable/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/g_wielokaty/Trojkat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="876">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/g_wielokaty/Kwadrat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/g_wielokaty/Wielokat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/g_wielokaty/Prostokat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/g_wielokaty/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/h_enum/DaysOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/h_enum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+          <folding>
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/j_myqueue/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="248" column="12" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="139" column="51" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="51" />
+          <folding>
+            <element signature="e#5525#5526#0" expanded="true" />
+            <element signature="e#5572#5573#0" expanded="true" />
+            <element signature="e#16227#16228#0" expanded="true" />
+            <element signature="e#16265#16266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/MainSetTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/treeset/PersonComparatorByID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/treeset/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/treeset/PersonComparatorUber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/MainSetMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/treeset/PersonComparatorByName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/list/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/map/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/map/NewAllegro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="373" column="7" lean-forward="true" selection-start-line="373" selection-start-column="7" selection-end-line="373" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/treeset/PersonMain2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/map/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/map/MainMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/set/treeset/PersonMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/pantadeusz/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/a_kolekcje/pantadeusz/WordCountComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_08_31/j_myqueue/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Cow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Chihuahua.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/connectis/programator/demo/zajecia_09_01/b_dziedziczenie/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
